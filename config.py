@@ -8,7 +8,7 @@ API_ID = int(os.environ.get("API_ID", "20114039"))
 # ------------------------------------------------
 API_HASH = os.environ.get("API_HASH","cd7dc5431d449fd795683c550d7bfb7e")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7690648371:AAFFDqm-tIOMymaZ-5YSVWNQe8lQpZkLGLg")
 # ------------------------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Bhumihar_PWEXT_bot")
 BOT_TEXT = "❖────[『 WELCOME BHUMIHAR 』]────❖"
@@ -16,14 +16,14 @@ BOT_TEXT = "❖────[『 WELCOME BHUMIHAR 』]────❖"
 OWNER_ID = int(os.environ.get("OWNER_ID", "8172163893"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002550528966"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002614908937"))
 
 # //FORCE_CHANNEL_ID
-CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002550528966")) 
+CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002500606405")) 
 # -----------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://biklriplit:efaXfv2Ps9MRfner@cluster0.4hfu8zj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002649968638"))
+PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002511678727"))
 # -----------------------------------------------
 join = '<a href="https://t.me/BHUMIHARBOTSS">✳️ BᴀᴄKUP</a>'
 # -----------------------------------------------
@@ -31,7 +31,7 @@ UNSPLASH_ACCESS_KEY = 'RabDRmuXXBobanmwwbvpP5LwoG4J8ox34y5Sstz-9jk'
 # -----------------------------------------------
 UNSPLASH_QUERY = 'animal baby'
 # -----------------------------------------------
-ADMIN_BOT_USERNAME = "@Extractor_txt_bot" #without
+ADMIN_BOT_USERNAME = "Thebhumihar" #without
 
 THUMB_URL = os.environ.get("THUMB_URL", "https://i.ibb.co/ZRvCxd5g/STRANGER-BOY.jpg")
 
